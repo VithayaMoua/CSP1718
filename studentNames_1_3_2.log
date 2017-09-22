@@ -1,0 +1,26 @@
+# IPython log file
+
+import matplotlib.pyplot as plt
+a = randn(10000)
+plt.hist(a)
+#[Out]# (array([   16.,    88.,   547.,  1741.,  2895.,  2759.,  1465.,   406.,
+#[Out]#           75.,     8.]), array([-3.8478978 , -3.06136805, -2.27483831, -1.48830856, -0.70177882,
+#[Out]#         0.08475093,  0.87128067,  1.65781042,  2.44434016,  3.23086991,
+#[Out]#         4.01739965]), <a list of 10 Patch objects>)
+plt.show()
+%cd "H:\Documents\Python"
+# Wed, 13 Sep 2017 14:53:32
+# Vithaya Moua 1.3.2 IPython Log
+# Wed, 13 Sep 2017 14:56:33
+5 + 3
+#[Out]# 8
+# Wed, 13 Sep 2017 14:57:06
+5 + 3.
+#[Out]# 8.0
+# Wed, 13 Sep 2017 14:57:23
+7*2
+#[Out]# 14
+# Wed, 13 Sep 2017 15:04:45
+%logstart -ort Wanya and Vithaya_1_3_2.log
+# Wed, 13 Sep 2017 15:04:59
+%logstop
